@@ -1,2 +1,2 @@
 # Picture-Gallery
-We are planning to have a pictures gallery which will made by modal(bootstrap)
+We are planning to have a picture gallery which will made by modal(bootstrap)
